@@ -7,7 +7,10 @@
 
 - [Section](#section)
 - [Another Section](#another-section)
+  [Work](#work)	
 
+## Work
+- [Plurality Playbook](http://www.pluralpride.com/playbook) The ultimate coming out at work as plural guide.
 
 ## Section
 
